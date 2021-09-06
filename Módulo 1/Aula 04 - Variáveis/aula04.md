@@ -2,7 +2,6 @@
 ## Parte teórica
 Adicionar aqui posteriormente
 ## Minha solução
-<br><br>
 ```javascript
 var nomeCompleto = "Iago Ramon Möller";
 var apelido = "Bellz";
