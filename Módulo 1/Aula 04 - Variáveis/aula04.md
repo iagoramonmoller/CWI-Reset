@@ -6,7 +6,7 @@
 apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + apelido + ") e tenho " + idade + " anos. Nasci no dia " + dataNascimento + ", na cidade de " + localNascimento + ". Tenho " + altura + "m de altura e atualmente estou " + (trabalhando ? "empregado" : "desempregado") + "."
 ```
 - Dica: você deve criar as demais variáveis ```antes``` de criar a variável ```apresentacao```.
-## Minha solução
+## Solução
 ```javascript
 var nomeCompleto = "Iago Ramon Möller";
 var apelido = "Bellz";
@@ -21,8 +21,8 @@ var apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + 
 console.log(apresentacao);
 document.write(apresentacao);
 ```
-## Descobertas no processo
+## Descobertas
 - Para imprimir uma variável do meu código em javascript diretamente na exibição do meu arquivo HTML no navegador (não no console), troquei o comando ```console.log``` por ```document.write``` e chamei o arquivo .js utilizando ```<script src="nomedoarquivo.js></script>``` dentro do body;
-## Dúvidas
+## Dúvidas/Problemas
 - Qual a diferença entre separar strings e valores com o ```+``` e com a ```,```? Nos meus testes, a ```,``` adicionava um espaço entre elas, o que o ```+``` não fazia;
 - É possível criar um algorítimo ou utilizar um comando para copiar o conteúdo do arquivo .js na pasta diretamente dentro do meu arquivo .md, exibindo-o dentro de uma caixa de código javascript? Isso automatizaria o processo de copiar os códigos do meu arquivo .js para o arquivo .md ao fim de cada exercício;
