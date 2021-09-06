@@ -1,6 +1,6 @@
 # Aula #04 - Variáveis
 
-```
+```javascript
 var nomeCompleto = "Iago Ramon Möller";
 var apelido = "Bellz";
 var idade = 24;
