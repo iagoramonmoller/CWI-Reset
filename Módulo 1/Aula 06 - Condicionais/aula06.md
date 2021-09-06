@@ -90,3 +90,5 @@ switch (classificacao)
 
 }
 ```
+## Dúvidas/Problemas
+- Como reduzir o número de casas decimais após a vírgula?
