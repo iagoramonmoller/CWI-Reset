@@ -53,4 +53,4 @@ document.write(saldo+"<br>");
 ## Descobertas
 - O comando ```document.write``` não adiciona espaços entre as impressões (o que ocorre com ```console.log```). Quando impresso em HTML, faz-se necessário adicionar ```<br>``` às strings, que serão interpretadas como espaços em uma página HTML;
 ## Dúvidas/Problemas
-- A utilização de ```<br>``` no ```document.write``` dentro do arquivo .js me parece problemático na construção de uma página, especialmente quando há muito código. Que maneira facilita e melhora esse processo de imprimir variáveis .js em uma página HTML?
+- A utilização de ```<br>``` no ```document.write``` dentro do arquivo .js me parece problemático na construção de uma página, especialmente quando há muito código. Que maneira facilita e melhora esse processo de imprimir variáveis .js em uma página HTML? Por enquanto, é preferível escrever os códigos em javascript diretamente dentro do HTML, utilizando ```<script>```;
