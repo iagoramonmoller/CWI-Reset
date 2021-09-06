@@ -26,4 +26,4 @@ document.write(apresentacao);
 - Qual a diferença entre separar strings e valores com o ```+``` e com a ```,```? Nos meus testes, a ```,``` adicionava um espaço entre elas, o que o ```+``` não fazia;
 - É possível criar um algorítimo ou utilizar um comando para copiar o conteúdo do arquivo .js na pasta diretamente dentro do meu arquivo .md, exibindo-o dentro de uma caixa de código javascript? Isso automatizaria o processo de copiar os códigos do meu arquivo .js para o arquivo .md ao fim de cada exercício;
 
-@@include[aula04.js](includes/aula04.js)
+@@include[aula04.js](aula04.js)
