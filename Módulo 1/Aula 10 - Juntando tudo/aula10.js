@@ -12,7 +12,7 @@ var colaboradorSelecionado="Nome";
 var nomeValido=false;
 var condicaoAposentadoria=false;
 
-//FUNÇÃO QUE VERIFICA APOSENTADORIA UTILIZANDO AS VARIÁVEIS E FUNÇÕES ANTERIORES
+//FUNÇÃO QUE VERIFICA APOSENTADORIA UTILIZANDO AS VARIÁVEIS ANTERIORES
 
 function verificarAposentadoria(a){
 
