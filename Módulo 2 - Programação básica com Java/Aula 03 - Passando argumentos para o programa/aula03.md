@@ -39,3 +39,4 @@ class AlunoResetComParametro {
         
     }
 ```
+![Capturar](https://user-images.githubusercontent.com/80482914/132438070-74182e37-be64-4e55-a6b0-f1c4e355c00e.PNG)
