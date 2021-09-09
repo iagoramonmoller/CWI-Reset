@@ -44,6 +44,7 @@ Operador      | Função
 
 - Verificar tabela verdade;
 
+![Tabela verdade](https://user-images.githubusercontent.com/80482914/132644906-c843ffde-97d4-4456-8311-668b9e87340d.png)
 
 ## Exercício proposto
 - Faça um programa que tenha como entradas dois números e imprima a soma de ambos. Utilize a classe Scanner para obter as entradas.
