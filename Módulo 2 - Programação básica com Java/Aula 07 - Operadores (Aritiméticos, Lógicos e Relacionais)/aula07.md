@@ -34,7 +34,7 @@ Operador      | Função
 - Tabela de operadores lógicos:
 
 Operador      | Função
-------------- | -------------------
+------------- | ------------------
 ```&```       | AND
 ```|```       | OR
 ```^```       | XOR
