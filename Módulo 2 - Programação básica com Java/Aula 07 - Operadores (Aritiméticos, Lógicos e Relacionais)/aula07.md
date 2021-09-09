@@ -54,4 +54,5 @@ Operador      | Função
 ## Solução
 ## Descobertas
 ## Dúvidas/Problemas
+- Como arrumas as telas bugadas na parte teórica? Por que bugaram?
 ## Referências
