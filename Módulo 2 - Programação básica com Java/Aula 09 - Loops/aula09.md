@@ -116,6 +116,14 @@ System.out.println("Saiu do loop");
 ### Continue
 - Complementa o break;
 - Continua o loop na próxima interação;
+```java
+while(true){
+
+  if(true)
+    continue;//o ciclo em execução será finalizado, mas não o laço de repetição 'while'
+
+}
+```
 ## Exercício proposto
 1) Faça um programa que peça uma nota, entre zero e dez. Caso o valor informado seja inválido, ou seja, não esteja entre zero e dez, mostre uma mensagem informando o problema, mas mantenha o programa em execução pedindo novamente a nota até que o usuário informe um valor válido. Quando o usuário informar uma nota válida, imprima o valor da nota.
 2) Faça um programa que leia dois números e imprima todos os valores presentes no intervalo entre eles, um abaixo do outro. Caso o segundo número seja menor ou igual ao primeiro, solicite um novo número até que o segundo número seja maior que o primeiro.
