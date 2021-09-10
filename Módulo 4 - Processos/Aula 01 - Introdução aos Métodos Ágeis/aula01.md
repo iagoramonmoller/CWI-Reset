@@ -1,8 +1,39 @@
-# Aula #XX - Título
+# Aula #01 - Introdução aos Métodos Ágeis
 ## Teoria
-## Exercício proposto
-## Processo
-## Solução
-## Descobertas
-## Dúvidas/Problemas
-## Referências
+- Antigamente, utilizáva-se o metodo waterfall ou cascata
+    - Etapas bem definidas;
+    - Equipes especialistas em cada etapa;
+    - Escopo fechado;
+    - Entrega somente no final;
+    - Requisitos > Projeto > Implementação > Testes > Manutenção;
+    - Gerava problemas como:
+        - Equipes trabalhando separadamente cada um fazendo "a sua parte";
+        - Falta feedback entre as etapas;
+        - Distanciamento do cliente;
+        - Demora na entrega de valor;
+        - Qualidade pode ser um gargalo;
+        - Mudanças não são bem vindas;
+- Desses problemas, surgiu o [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html):
+    - Indivíduos e interações mais que processos e ferramentas;
+    - Software em funcionamento mais que documentação abrangente;
+    - Colaboração com o cliente mais que negociação de contratos;
+    - Responder a mudanças mais que seguir um plano;
+- Princípios do Manifesto Ágil:
+    - Entregar valor;
+    - Aceitar bem mudanças;
+    - Entregas frequentes;
+    - Trabalho em conjunto;
+    - Motivação e confiança;
+    - Comunicação;
+    - Software funcionando;
+    - Sustentável;
+    - Atenção contínua;
+    - Simplicidade;
+    - Times auto organizáveis;
+    - Melhora contínua;
+- Alguns métodos/frameworks ágeis:
+    - XP;
+    - Kanban;
+    - Crystal;
+    - Scrum;
+    - DSDM;

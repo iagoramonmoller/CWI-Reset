@@ -1,8 +1,5 @@
-# Aula #XX - Título
+# Aula #10 - Arrays e Vetores
 ## Teoria
-## Exercício proposto
-## Processo
-## Solução
-## Descobertas
-## Dúvidas/Problemas
-## Referências
+### Arrays
+- Estrutura de dados mais simples existente na maioria das linguagens de programação;
+- Lista ordenada de dados;
