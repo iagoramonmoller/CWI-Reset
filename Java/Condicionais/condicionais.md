@@ -1,4 +1,4 @@
-# Aula #08 - Condicionais
+# Condicionais
 ## Teoria
 ### If/Else
 - Comandos dentro de um bloco IF somente são executados se a condição for verdadeira;
